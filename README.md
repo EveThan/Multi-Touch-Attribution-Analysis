@@ -1,4 +1,4 @@
-# Multi-Touch Attribution & Budget Optimization
+# Marketing Multi-Touch Attribution & Budget Optimization
 
 ## Overview
 This project implements Last-Touch and Markov Chain attribution models within Databricks to evaluate the marketing channels (e.g., search ads, emails, referrals) in a customer journey. By quantifying the credit due to each channel, these models provide a data-driven framework for optimizing budget allocation and spend efficiency.
